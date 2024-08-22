@@ -1,0 +1,30 @@
+{
+  thunar.Thunar = {
+    AlwaysUserIcon = Yes;
+    Icon = thunar.svg;
+  };
+  office.Office = {
+    Icon = office.svg;
+  };
+  brave.Brave = {
+    Icon = brave.svg;
+  };
+  mousepad.Mousepad = {
+    AlwaysUserIcon = Yes;
+    Icon = editor.svg;
+  };
+  galculator.Galculator = {
+    AlwaysUserIcon = Yes;
+    Icon = "calc.svg";
+  };
+  "pamac-manager.Pamac-manager" = {
+    Icon = "pamac-manager.Pamac-manager.xpm";
+  };
+  Logo.WMDock = {
+    AlwaysUserIcon = Yes;
+    Icon = biglinux.png;
+  };
+  "polkit-kde-authentication-agent-1.polkit-kde-authentication-agent-1" = {
+    Icon = "polkit-kde-authentication-agent-1.polkit-kde-authentication-agent-1.xpm";
+  };
+}

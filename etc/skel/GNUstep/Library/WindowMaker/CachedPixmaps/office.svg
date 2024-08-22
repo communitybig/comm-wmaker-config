@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="1 1 58.666667 58.666667"
+   fill="none"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="office.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="7.2799928"
+     inkscape:cx="48.763785"
+     inkscape:cy="22.115407"
+     inkscape:window-width="1920"
+     inkscape:window-height="1050"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <path
+     fill="url(#a)"
+     fill-rule="evenodd"
+     d="m 23.953497,1.3029868 q 0.480645,0.00267 0.918566,-0.1228315 a 85.448038,85.448038 0 0 1 11.500772,0.029373 q 5.20966,0.4085485 10.09355,2.264373 8.112223,3.337814 11.102904,11.5862197 1.708961,4.966667 2.01871,10.21104 A 74.767033,74.767033 0 0 1 59.28359,38.416808 31.775989,31.775989 0 0 1 56.896386,47.282042 Q 53.489145,54.662616 45.854897,57.46371 A 41.655919,41.655919 0 0 1 33.13115,59.666667 57.143375,57.143375 0 0 1 18.570271,58.563853 Q 5.307133,55.610555 2.2069713,42.392812 A 50.734773,50.734773 0 0 1 1.0133691,30.347309 49.399647,49.399647 0 0 1 2.3885484,17.567487 Q 5.6382441,5.2068941 18.081615,2.250926 a 37.383517,37.383517 0 0 1 5.871882,-0.9479392"
+     clip-rule="evenodd"
+     id="path1"
+     style="fill:url(#a);stroke-width:2.67025" />
+  <circle
+     cx="23.77726"
+     cy="26.22444"
+     r="11.954715"
+     fill="url(#b)"
+     stroke="#cc5e55"
+     stroke-width="2.06143"
+     id="circle1"
+     style="fill:url(#b)" />
+  <rect
+     width="17.727797"
+     height="17.727797"
+     x="31.197889"
+     y="22.924011"
+     fill="url(#c)"
+     stroke="#006699"
+     stroke-width="2.06143"
+     rx="2.2670431"
+     id="rect1"
+     style="fill:url(#c)" />
+  <path
+     fill="url(#d)"
+     stroke="#ffc328"
+     stroke-width="2.06143"
+     d="m 28.420827,30.654388 6.424625,11.132277 a 2.2697135,2.2697135 0 0 1 -1.962635,3.39923 H 20.030898 a 2.2697135,2.2697135 0 0 1 -1.965305,-3.39923 l 6.427295,-11.132277 a 2.2697135,2.2697135 0 0 1 3.925269,0 z"
+     id="path2"
+     style="fill:url(#d)" />
+  <defs
+     id="defs9">
+    <radialGradient
+       id="a"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientTransform="matrix(0,58.745526,-58.745526,0,30.372781,0.9985782)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#F4F4F4"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#BBB"
+         id="stop3" />
+    </radialGradient>
+    <radialGradient
+       id="b"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientTransform="matrix(0,46.262102,-46.262102,0,23.777261,3.5994029)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#F4F4F4"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#BBB"
+         id="stop5" />
+    </radialGradient>
+    <radialGradient
+       id="c"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientTransform="matrix(0,35.247316,-35.247316,0,40.060452,14.552773)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#F4F4F4"
+         id="stop6" />
+      <stop
+         offset="1"
+         stop-color="#BBB"
+         id="stop7" />
+    </radialGradient>
+    <radialGradient
+       id="d"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientTransform="matrix(0,37.450273,-43.243917,0,26.438313,17.427966)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#F4F4F4"
+         id="stop8" />
+      <stop
+         offset="1"
+         stop-color="#BBB"
+         id="stop9" />
+    </radialGradient>
+  </defs>
+</svg>
