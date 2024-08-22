@@ -1,0 +1,6 @@
+[2024-08-22 11:42:57] Iniciando processo de gerenciamento de repositório
+[2024-08-22 11:42:57] Erro: PKGBUILD não encontrado
+[2024-08-22 11:45:33] Iniciando processo de gerenciamento de repositório (versão 1.1)
+[2024-08-22 11:45:33] PKGBUILD encontrado em: ./pkgbuild/PKGBUILD
+[2024-08-22 11:47:17] Iniciando processo de gerenciamento de repositório (versão 1.2)
+[2024-08-22 11:47:17] PKGBUILD encontrado em: ./pkgbuild/PKGBUILD
