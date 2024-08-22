@@ -1,12 +1,12 @@
 # Maintainer: Tales A. Mendonça <talesam@gmail.com>
 
-pkgname=pkgbuild-template
-pkgdesc="Package template for Communitybig"
+pkgname=comm-wmaker-config
+pkgdesc="Package configuration Desktop Window Maker"
 # Uncomment and edit the following lines as needed
 #depends=('')
 #makedepends=('')
 #optdepends=('')
-#conflicts=('')
+conflicts=('bashrc-manjaro')
 #provides=('')
 #replaces=('')
 pkgver=$(date +%y.%m.%d)

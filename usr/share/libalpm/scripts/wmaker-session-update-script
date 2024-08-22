@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+
+wmakerSessionComm="/usr/bin/wmaker-session-comm"
+wmakerSessionBin="/usr/bin/wmaker"
+wrapperScript="/usr/bin/startwmaker-community"
+
+# Renomeia o binário original, se ainda não foi renomeado
+if [ -f "$wmakerSessionBin" ] && [ ! -f "$wmakerSessionComm" ]; then
+	mv -f "$wmakerSessionBin" "$wmakerSessionComm"
+fi
+
+# Copia o script wrapper para substituir o wmaker-session
+cp -f "$wrapperScript" "$wmakerSessionBin"
+chmod +x "$wmakerSessionBin"
