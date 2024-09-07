@@ -1,7 +1,7 @@
 # Installation file for Arch Linux packages
 # This file contains scripts that are executed at different stages of package installation/upgrade/removal
 
-# Function executed before package installation
+## Function executed before package installation
 # pre_install() {
 #     echo "Preparing to install the package..."
     # Example: Check for system dependencies
