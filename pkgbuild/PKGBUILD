@@ -3,8 +3,8 @@
 pkgname=comm-wmaker-config
 pkgdesc="Package configuration Desktop Window Maker"
 # Uncomment and edit the following lines as needed
-#depends=('')
-#makedepends=('')
+depends=('comm-skel')
+#makedepends=('') ##
 #optdepends=('')
 conflicts=('bashrc-manjaro')
 #provides=('')
